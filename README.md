@@ -33,3 +33,9 @@ being served.
 database.
 
 I got graded a 46/50 for this project.
+
+This project is in a zipped folder, to access it you just have to download the project, unzip it and open the visual studio sln file.
+
+You need to have visual studio installed onto your device to be able to access this project. 
+
+**The database sometimes runs into issues and cannot be found
